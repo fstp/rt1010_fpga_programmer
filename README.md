@@ -28,3 +28,4 @@ the ICE (like sending dummy clock cycles while holding the chip select high, whi
   3. https://www.cocoacrumbs.com/blog/2023-01-27-getting-started-with-the-olimex-ice40hx1k-evb/
   4. https://bitbucket.org/cocoacrumbselectronics/ice40hx1k-evb-demo/src/master/
   5. https://github.com/OLIMEX/iCE40HX1K-EVB
+  6. https://micropython.org/download/RPI_PICO/ **(How to flash the RT1010 with MicroPython using UF2)**
