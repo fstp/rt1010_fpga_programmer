@@ -20,7 +20,7 @@ the ICE (like sending dummy clock cycles while holding the chip select high, whi
 | SCK | White | SCK (Clock) | 9 |
 | CS0 (CSn) | Brown | SS_B (Chip Select) | 10 |
 
-**For details on the PIN layout, check the block in bottom left of the schematics PDF "iCE40HX1K-EVB_Rev_B"**
+*For details on the PIN layout, check the block in bottom left of the schematics PDF "iCE40HX1K-EVB_Rev_B"*
 
 ## **Links**
   1. https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware  
